@@ -1,3 +1,2 @@
 Első sor
-Másodi sor
 Harmadik sor
